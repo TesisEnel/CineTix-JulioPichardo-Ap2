@@ -1,3 +1,4 @@
+
 # CineTix
 
 CineTix es una aplicación android de base de datos de películas (imdb) que permite a los usuarios explorar varias películas, 
